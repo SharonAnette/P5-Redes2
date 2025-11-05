@@ -1,4 +1,4 @@
-# Práctica 5+ — Servicio TCP de la Capa de Transporte en Node.js
+# Práctica 5 — Servicio TCP de la Capa de Transporte en Node.js
 
 Este repositorio contiene el desarrollo correspondiente a la **Práctica 5+** de la asignatura **Aplicaciones para Comunicaciones en Red (6CV2)**, impartida en la **Escuela Superior de Cómputo (ESCOM)** del **Instituto Politécnico Nacional (IPN)**.  
 El trabajo tiene como objetivo implementar un **servicio TCP** en la capa de transporte mediante un **servidor** y un **cliente** programados en **Node.js**, analizando su funcionamiento, la comunicación bidireccional y el flujo de datos utilizando **Wireshark**.
